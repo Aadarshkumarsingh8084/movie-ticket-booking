@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![image alt]()
+![image alt](https://github.com/Aadarshkumarsingh8084/movie-ticket-booking/blob/main/Screenshot%202025-04-30%20214705.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
